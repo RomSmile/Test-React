@@ -1,9 +1,16 @@
-# React TypeScript Starter Pack
+# React statistics (CodeEmpire)
 
-To use this template click `Use this template`
+- [LINK TO PREVIEW](https://romsmile.github.io/Test-React/)
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+Test-task of CodeEmpire. This page about covid-statistic.
+There you can find information about confirmed, recovered and death people
+in every country in the world.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Local development
+
+* BEM
+* SCSS
+* TypeScript
+* React.js
